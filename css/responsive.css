@@ -1,0 +1,182 @@
+@media screen and (max-width:1024px){
+    .feature-content {
+    width:30%!important;
+}
+  .team-description {
+    width:30%!important;
+   
+}  
+  .post-items {
+    width: 30% !important;
+}  
+    .left-col {
+    top: 34% !important;
+    left: 72px !important;
+}
+    .left-col h1 {
+    font-size: 50px !important;
+    font-weight: bold;
+}
+    .right-col {
+    max-width: 89% !important;
+    float: right;
+    position: absolute;
+    right: -451px !important;
+    bottom: -46px !important;
+}
+    
+}
+
+
+@media screen and (max-width:800px){
+    .menubar{
+        display:none;
+    }
+	.mobile-icon {
+    display:block !important;
+}
+    .banner-left-content{
+       width:100% !important;
+    } 
+    .feature-content{
+    padding: 25px 0px !important;
+    width: 44% !important;
+    margin-left:23px!important;
+    
+}
+    .team-description {
+    width: 46%!important;
+    text-align: left;
+    margin-left: 16px!important;
+    margin-bottom: 31px;
+}
+    .post-items {
+    width: 46% !important;
+    margin-bottom: 24px !important;
+}
+    .col-8.m-auto.testimonial-content1 p {
+    font-size: 17px;
+}
+    .col-8.m-auto.testimonial-content2 p {
+    font-size: 17px;
+}
+    .col-8.m-auto.testimonial-content3 p {
+    font-size: 17px;
+}
+    .left-col {
+    width: 100% !important;
+    position: absolute;
+    top:78% !important;
+    left: 16px!important;
+}
+    .left-col h1 {
+    font-size: 29px !important;
+    font-weight: bold;
+}
+    .left-col p {
+    opacity: 0.8;
+    margin-bottom: 29px !important;
+    font-size: 12px;
+}
+    .right-col {
+    max-width: 92%!important;
+    position: absolute;
+    right: -32px!important;
+    top: -1px!important;
+}
+    .right-col img {
+    width: 131%!important;
+}
+  #banner-section {
+    overflow: hidden;
+    position: relative;
+    height: 670px!important;
+}   
+}
+
+@media screen and (max-width:500px){
+    
+    .feature-content {
+   padding: 36px 8px !important;
+    width: 88% !important;
+    margin-left: 22px!important;
+}
+   .col-lg-7.responsive-big-left.aos-init.aos-animate img {
+    width: 100%;
+} 
+    .col-lg-7.responsive-left-about.aos-init.aos-animate img {
+    width: 100%;
+}
+   .team-description {
+    width: 96%!important;
+       margin-left: 10px !important;
+   
+} 
+    .post-items {
+    width: 95% !important;
+    margin-bottom: 24px !important;
+}
+  .col-8.m-auto.testimonial-content1 p {
+    font-size: 12px;
+}
+    span.circle3 {
+    left: 54% !important;
+    
+}span.circle2 {
+    left: 49% !important;
+    
+}span.circle1 {
+    left: 44% !important;
+    
+}
+    .post-content h2 {
+    font-size: 21px;
+}
+  .post-content p {
+   
+    font-size: 12px;
+}
+   .form-group.form-left {
+    width: 100%!important;
+    float:none !important;
+} 
+    .form-right {
+    width: 100%!important;
+    float:none !important;
+}
+    .left-col {
+    width: 100% !important;
+    position: absolute;
+    top: 68% !important;
+    left: 16px!important;
+}
+    .left-col h1 {
+    font-size: 25px !important;
+    font-weight: bold;
+}
+    .left-col p {
+    opacity: 0.8;
+    margin-bottom: 29px !important;
+    font-size: 10px;
+        padding-right: 10px;
+}
+    .right-col {
+    max-width: 109%!important;
+    position: absolute;
+    right: -57px!important;
+    top: -1px!important;
+}
+    .right-col img {
+    width: 131%!important;
+}
+  #banner-section {
+    overflow: hidden;
+    position: relative;
+    height: 580px!important;
+}  
+    
+    
+    
+    
+    
+}
